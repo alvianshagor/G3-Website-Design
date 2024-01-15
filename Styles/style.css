@@ -261,18 +261,14 @@ gap: 40px;
 
 /* footer  */
 
-.copyright{
-
+.footer{
 background-color: #ffeee0;
 color: #111;
-font-size: 18px;
-font-weight: 600px;
-padding: 5px;
-margin: 5px;
 text-align: center;
-
+font-size: 18px;
+padding: 2px;
+margin: 5px;
 }
-
 
 
 
@@ -323,11 +319,11 @@ gap: 20px;
 @media screen and (max-width: 600px) {
   .footer{
 flex-direction: column;
-align-items: center;
   }
-.copyright{
+.footer{
 padding: 5px;
 margin: 5px;
+
 }
 
 }
