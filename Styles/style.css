@@ -265,9 +265,9 @@ gap: 40px;
 background-color: #ffeee0;
 color: #111;
 text-align: center;
-font-size: 18px;
-padding: 2px;
+font-size: 10px;
 margin: 5px;
+padding: 5px;
 }
 
 
@@ -321,8 +321,8 @@ gap: 20px;
 flex-direction: column;
   }
 .footer{
-padding: 5px;
 margin: 5px;
+padding: 5px;
 
 }
 
